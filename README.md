@@ -19,6 +19,8 @@ npm install
 
 ### Create a .env File
 
+this is important with out thisbackenddeploy url is not working
+
 PORT=5000
 MONGO_URI=your mongodatabase connection string|| url
 
