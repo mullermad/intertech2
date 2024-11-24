@@ -9,8 +9,8 @@ This is a simple Express web server for managing a collection of books. It inclu
 Clone the repository to your local machine and navigate to the project folder:
 
 ```bash
-git clone https://github.com/mullermad/Intertechhub.git
-cd Intertechhub
+git clone https://github.com/mullermad/intertech2.git
+cd backend2
 ```
 
 ### 1. Install dependency
