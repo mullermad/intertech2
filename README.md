@@ -19,8 +19,8 @@ npm install
 
 ### Create a .env File
 
-PORT=5000 since am using local mongo db
-MONGO_URI=mongodb://localhost:27017/booksdb
+PORT=5000
+MONGO_URI=your mongodatabase connection string|| url
 
 ### Install dotenv
 
